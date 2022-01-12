@@ -9,10 +9,13 @@
 
 .filter-buttons {
     margin-top: 10px;
+    justify-content: space-between;
+    display: flex;
 }
 
 .unload-buttons {
     margin-top: 10px;
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
 }
